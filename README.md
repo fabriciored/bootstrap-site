@@ -1,2 +1,2 @@
 # bootstrap-site
-Projeto de website funcional criado em Bootstrap Framework.
+Projeto de Landing Page funcional criado em Bootstrap Framework.
